@@ -1,0 +1,10 @@
+body{
+    background-color: black;
+}
+.demo{
+    text-align: center;
+    margin-top: 300px;
+    font-size: 40px;
+    font-weight: 40px;
+    color:aliceblue;
+}
